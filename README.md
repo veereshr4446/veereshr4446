@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1800&color=00D4FF&center=true&vCenter=true&width=820&height=40&lines=A+site+audit+form+in+daily+use+by+a+field+team;A+student+dashboard+for+my+college%3A+HALCYON;AI+study+tools%2C+crop+prediction%2C+browser-based+utilities" alt="What I build" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/-veeresh-ranjanagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://l1nk.dev/veeresh-ranjanagi-"><img src="https://img.shields.io/badge/Links-00D4FF?style=for-the-badge&logo=link&logoColor=black" alt="Links" /></a>
-</p>
-
 ---
 
 <p align="center">
